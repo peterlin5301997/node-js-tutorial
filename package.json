@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/peterlin5301997/node-js-tutorial/issues"
   },
-  "homepage": "https://github.com/peterlin5301997/node-js-tutorial#readme"
+  "homepage": "https://github.com/peterlin5301997/node-js-tutorial#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
 }
