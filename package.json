@@ -1,0 +1,19 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "description": "NodeJS Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterlin5301997/node-js-tutorial.git"
+  },
+  "author": "Peter Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterlin5301997/node-js-tutorial/issues"
+  },
+  "homepage": "https://github.com/peterlin5301997/node-js-tutorial#readme"
+}
